@@ -1,0 +1,28 @@
+fillers = ['verb', 'noun', 'character', 'adjective', 'adverb', 'place to live', 'creature', 'food']
+             0        1       2            3             4             5           6           7
+
+dino
+character verb adjective adverb food
+   0        1     2        3      4
+
+milkshake (f)
+Today we are making a custom milkshake
+The first ingredient is [food]
+now lets [adverb] mix it in. This step is very important
+now our nest ingredient is [food]
+now lets take a break and [verb]
+now for our final ingredient [food]
+WOW, that is [adjective]
+Thanks for making this 
+now we will take it too our customer [character]
+
+superhero (g)
+Today is just a regular day for [character]
+While he was a at work a helicopter [adverb] crashed through the wall
+[character] just sat down ate his [food] and got back to work 
+a little squished since he was sharing his desk with a helicopter wing
+The, after work [character] walked home 
+and found out a giant [creature] walked over his apartment
+So, he went to his friend's [place to live]
+It was easy for him to sleep becasue of the sounds of crashing and lasers outside
+Just another regular day for [character]
